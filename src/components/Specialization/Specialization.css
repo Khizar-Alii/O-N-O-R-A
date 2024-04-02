@@ -1,0 +1,95 @@
+.specialization {
+  display: flex;
+  flex-direction: column;
+  h1 {
+    font-size: 70px;
+    color: #222222;
+    margin-left:90px;
+    span {
+      color: #0001a3;
+    }
+  }
+}
+.specializationContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 98vw;
+  overflow: hidden;
+}
+.specializationContainer .specializationContainerBox {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border: 1px solid rgba(238, 238, 238, 1);
+  width: 350px;
+  height: 200px;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: #222222;
+  text-decoration: none;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  &:hover {
+    box-shadow: 0px 20px 16px 0px rgba(41, 1, 102, 0.5),
+      -8px 0px 8px -6px rgba(41, 1, 102, 0.5),
+      8px 5px 8px -6px rgba(41, 1, 102, 0.5);
+    transform: translateY(4px);
+  }
+}
+.specializationContainer .specializationContainerBox h3 {
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-weight: bolder;
+  padding: 5px 0;
+}
+.specializationContainer .specializationContainerBox span {
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-weight: 500;
+  color: #666666;
+}
+.specializationContainer .specializationContainerBox i {
+  font-size: 20px;
+}
+
+/* Responsive for the mainContainer box */
+@media screen and (max-width: 1024px) {
+  .specialization {
+    h1 {
+      font-size: 60px;
+      margin-left: 10px;
+    }
+  }
+  .specializationContainer .specializationContainerBox {
+    width: 100%;
+  }
+  .specializationContainer .specializationContainerBox h3 {
+    font-size: 30px;
+  }
+  .specializationContainer .specializationContainerBox span {
+    font-size: 25px;
+  }
+  .specializationContainer .specializationContainerBox i {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .specialization {
+    h1 {
+      font-size: 50px;
+    }
+  }
+
+  .specializationContainer .specializationContainerBox h3 {
+    font-size: 18px;
+  }
+  .specializationContainer .specializationContainerBox span {
+    font-size: 16px;
+  }
+  .specializationContainer .specializationContainerBox i {
+    font-size: 20px;
+  }
+}

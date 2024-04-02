@@ -1,0 +1,30 @@
+.HCBottom{
+    display: flex;
+    flex-direction: column;
+    padding: 50px 30px;
+}
+.HCBottomHeading{
+    color: #222222;
+    font-size: 50px;
+    font-weight: bolder;
+
+    span {
+        color: #0014A5;
+    }
+}
+.HCBottomUnderline{
+    border: 1px solid #222222;
+    margin:20px 0;
+}
+.HCBottomArticle{
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-align: left;
+    width: 80%;
+    line-height: 30px;
+}
+@media screen and (max-width:600px) {
+    .HCBottomArticle{
+        width: 100%;
+    }
+}

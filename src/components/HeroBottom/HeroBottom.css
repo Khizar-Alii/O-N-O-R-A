@@ -1,0 +1,51 @@
+.HeroBottom {
+  display: flex;
+  justify-content: space-between;
+  /* height: 100vh; */
+  .HeroBottomRight,
+  .HeroBottomLeft {
+    width: 50%;
+  }
+  margin: 30px;
+}
+.HeroBottomLeft {
+  font-size: 35px;
+  font-weight: bolder;
+  letter-spacing: 2px;
+  margin: 0 20px;
+  h2 {
+    color: #003ee6;
+  }
+}
+.HeroBottomRight {
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: 1px;
+  article {
+    font-weight: lighter;
+    color: #202020;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .HeroBottom {
+    flex-direction: column;
+    margin: 0;
+    .HeroBottomRight,
+    .HeroBottomLeft {
+      width: 100%;
+    }
+  }
+
+  .HeroBottomLeft {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 400px) {
+    .HeroBottomLeft {
+      font-size: 25px;
+    }
+    .HeroBottomRight{
+        font-size: 15px;
+    }
+  }
