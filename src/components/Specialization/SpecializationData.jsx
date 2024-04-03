@@ -13,22 +13,21 @@ const specializationData = [
     description:
       "Acquire more patients, recruit more talent, grow your billings.",
     id: 1,
-    redirect: "/healthcare-and-allied-health-marketing",
+    redirect: "/specialisation/healthcare-and-allied-health-marketing",
   },
   {
     // icon: <LanguageIcon />,
     title: "EDUCATION",
-    description:
-      "Generate more leads, convert more enrolments.",
+    description: "Generate more leads, convert more enrolments.",
     id: 2,
-    redirect: "",
+    redirect: "/specialisation/education",
   },
   {
     // icon: <SmartphoneIcon />,
     title: "ECOMMERCE",
     description: "Scale, grow, scale, repeat.",
     id: 3,
-    redirect: "",
+    redirect: "/specialisation/ecommerce",
   },
   {
     // icon: <ConnectWithoutContactIcon />,
@@ -36,7 +35,7 @@ const specializationData = [
     description:
       "Drive consumer demand and outperform the market when others can't.",
     id: 4,
-    redirect: "",
+    redirect: "/specialisation/consumer-brands-fmcg",
   },
   {
     // icon: <EmailSharpIcon />,
@@ -44,21 +43,21 @@ const specializationData = [
     description:
       "Attract more students with our lead generation and growth strategies.",
     id: 5,
-    redirect: "",
+    redirect: "/specialisation/rto",
   },
   {
     // icon: <WebIcon />,
     title: "SAAS",
     description: "Scale, gain mass market adoption and achieve high growth.",
     id: 6,
-    redirect: "",
+    redirect: "/specialisation/saas",
   },
   {
     // icon: <LanguageIcon />,
     title: "LEGAL",
     description: "Generate more leads, win more cases, grow those billings.",
     id: 7,
-    redirect: "",
+    redirect: "/specialisation/legal",
   },
   {
     // icon: <PrecisionManufacturingIcon />,
@@ -66,31 +65,28 @@ const specializationData = [
     description:
       "Growth strategies that will give your agency or project the competitive edge.",
     id: 8,
-    redirect: "",
+    redirect: "/specialisation/property",
   },
   {
     // icon: <SupportAgentIcon />,
     title: "GOVERNMENT & POLITICAL",
-    description:
-      "We believe in change for the better.",
+    description: "We believe in change for the better.",
     id: 9,
-    redirect: "",
+    redirect: "/specialisation/government-political",
   },
   {
     // icon: <SupportAgentIcon />,
     title: "DENTAL MARKETING",
-    description:
-      "Fill your books, increase referrals and grow.",
+    description: "Fill your books, increase referrals and grow.",
     id: 10,
-    redirect: "",
+    redirect: "/specialisation/dental-marketing",
   },
   {
     // icon: <SupportAgentIcon />,
     title: "FINANCIAL SERVICES",
-    description:
-      "Big bank, small bank, wealth management, we love money.",
+    description: "Big bank, small bank, wealth management, we love money.",
     id: 11,
-    redirect: "",
+    redirect: "/specialisation/financial-services",
   },
 ];
 

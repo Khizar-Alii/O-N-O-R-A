@@ -13,7 +13,7 @@ const Specialization = ({ data, title, subtitle, backgroundColor }) => {
         {title} <br />
         <span>{subtitle}</span>
       </h1>
-      <div className="mainContainer_service specializationContainer">
+      <div className="mainContainer_service specializationContainer" id="services">
         {data.map((service) =>
           service.redirect == "" ? (
             <div
