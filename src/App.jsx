@@ -17,6 +17,17 @@ import PropertyHome from "./Specilization/Property/PropertyHome.jsx";
 import GovtPoliticalHome from "./Specilization/GovtPolitical/GovtPoliticalHome.jsx";
 import DentalMarketingHome from "./Specilization/DentalMarketing/DentalMarketingHome.jsx";
 import FinancialServicesHome from "./Specilization/FinancialServices/FinancialServicesHome.jsx";
+import ServicesLG from "./ServicesComponent/LeadGeneration/ServicesLG.jsx";
+import ServicesB2BMar from "./ServicesComponent/B2BMarketing/ServicesB2BMar.jsx";
+import ServicesHighGrowth from "./ServicesComponent/HighGrowth/ServicesHighGrowth.jsx";
+import ServicesGoogleAds from "./ServicesComponent/GoogleAds/ServicesGoogleAds.jsx";
+import ServicesMetaAdv from "./ServicesComponent/MetaAdvertising/ServicesMetaAdv.jsx";
+import ServicesProgramaticAdv from "./ServicesComponent/ProgramaticAdver/ServicesProgramaticAdv.jsx";
+import ServicesEmailSmsMar from "./ServicesComponent/EmailsAndSmsMarketing/ServicesEmailSmsMar.jsx";
+import ServicesWebPageDesign from "./ServicesComponent/WebAndLandingPageDesign/ServicesWebPageDesign.jsx";
+import ServicesSEO from "./ServicesComponent/SEO/ServicesSEO.jsx";
+import ServicesConversionRateOpti from "./ServicesComponent/ConversionRateOpti/ServicesConversionRateOpti.jsx";
+import ServicesConsultancy from "./ServicesComponent/Consultancy/ServicesConsultancy.jsx";
 
 function App() {
   return (
@@ -28,6 +39,7 @@ function App() {
         <Route path="/Case-Studies" element={<HomeCaseStudies />} />
         <Route path="/about" element={<HomeAbout />} />
         <Route path="/contact" element={<HomeContact />} />
+        {/* Specialization Routes */}
         <Route
           path="/specialisation/healthcare-and-allied-health-marketing"
           element={<HCHome />}
@@ -54,6 +66,18 @@ function App() {
           path="/specialisation/financial-services"
           element={<FinancialServicesHome />}
         />
+        {/* Services Routes */}
+        <Route path="/services/leadGeneration" element={<ServicesLG />} />
+        <Route path="/services/B2B-Marketing" element={<ServicesB2BMar />} />
+        <Route path="/services/Hight-Growth" element={<ServicesHighGrowth />} />
+        <Route path="/services/google-ads" element={<ServicesGoogleAds />} />
+        <Route path="/services/meta-advertising" element={<ServicesMetaAdv/>} />
+        <Route path="/services/programatic-advertising" element={<ServicesProgramaticAdv />} />
+        <Route path="/services/email-and-sms-marketing" element={<ServicesEmailSmsMar />} />
+        <Route path="/services/website-and-landing-page-design" element={<ServicesWebPageDesign />} />
+        <Route path="/services/search-engine-optimization" element={<ServicesSEO />} />
+        <Route path="/services/conversion-rate-optimisation" element={<ServicesConversionRateOpti />} />
+        <Route path="/services/consultancy" element={<ServicesConsultancy />} />        
       </Routes>
       <Footer />
     </>
