@@ -25,7 +25,7 @@ const PropertyNiches = [
     },
     {
         title : 'PROJECT MARKETING',
-        description : "Selling off the plan requires more than a cliche development name and pretty renders. It requires a proven sales strategies to drive high quality buyer enquiry. Selling out stage after stage no matter the market is something April Ford thrives on.",
+        description : "Selling off the plan requires more than a cliche development name and pretty renders. It requires a proven sales strategies to drive high quality buyer enquiry. Selling out stage after stage no matter the market is something Onora thrives on.",
         id : 5,
         redirect : ""
     },

@@ -16,7 +16,7 @@ const HomeAbout = () => {
           </h1>
           <div className={styles.mainContainer__about_content_top}>
             <p>
-              April Ford is a digital performance agency with an innate
+              Onora is a digital performance agency with an innate
               understanding of business. We manage a national portfolio of
               clients with specialisations in;
               <b>
@@ -27,7 +27,7 @@ const HomeAbout = () => {
               Our founders, April Forbes and Brendan Ford, spent two decades
               building and exiting companies in consulting, property, and M&A
               before launching AF in 2017. Having bootstrapped growth without
-              taking outside investment, April Ford has in a few short years,
+              taking outside investment, Onora has in a few short years,
               developed a national footprint with multiple offices and a
               blue-chip client base. We're a business built on results, not
               false promises.
@@ -56,7 +56,7 @@ const HomeAbout = () => {
               We take the time to get to know you and your business. We leverage
               AI to give your brand the competitive advantage you've been
               searching for. Powered by actual intelligence, data driven
-              decisions, creative thinking and commercial maturity, April Ford
+              decisions, creative thinking and commercial maturity, Onora
               is like no agency you've met before.
               <br />
               <br />

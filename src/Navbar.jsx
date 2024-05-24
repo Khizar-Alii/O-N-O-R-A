@@ -16,10 +16,11 @@ const Navbar = () => {
       <nav className="main-nav">
         {/* 1st logo part  */}
         <div className="logo">
-          <h2>
-            <span>O</span>NO
-            <span>R</span>A
-          </h2>
+          <Link className="logoHeading" to='/'>
+            {/* <span>O</span>NO
+            <span>R</span>A */}
+            <img src="./onoraLogo.jpg" alt="logo"  />
+          </Link>
         </div>
 
         {/* 2nd menu part  */}

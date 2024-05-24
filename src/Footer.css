@@ -76,12 +76,17 @@ footer {
   text-align: center;
 }
 
-.midFooter > h1 {
+/* .midFooter > h1 {
   font-size: 4vmax;
   font-family: "Roboto";
   color: #baf0e0;
   margin: 0;
   letter-spacing: 10px;
+} */
+.midFooter > img {
+  object-fit: cover;
+  width: 200px;
+  height: 100px;
 }
 
 .midFooter > p {

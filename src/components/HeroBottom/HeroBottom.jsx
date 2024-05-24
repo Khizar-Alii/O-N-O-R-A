@@ -15,7 +15,7 @@ const HeroBottom = () => {
           alone. We work with CEOs, GMs, CMOs and Marketing Managers all over
           Australia solving these exact problems with digital marketing
           solutions. <br /> <br />
-          April Ford is a digital performance agency with an innate
+          Onora is a digital performance agency with an innate
           understanding of business. We manage a national portfolio of clients
           with specialisations in medical and allied health, financial services,
           professional services, lead generation, ecommerce, education,

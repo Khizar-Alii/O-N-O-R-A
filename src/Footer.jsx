@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React  from "react";
 import "./Footer.css";
 import { Link } from "react-router-dom";
 
@@ -15,7 +15,8 @@ const Footer = () => {
       </div>
 
       <div className="midFooter">
-        <h1>ONORA</h1>
+        {/* <h1>ONORA</h1> */}
+        <img src="./onoraLogo.jpg" alt="logo"  />
         <p>Where Quality Meets Innovation.</p>
         <p>© 2023 Khizar. All Rights Reserved.</p>
         <h4>Follow Us</h4>

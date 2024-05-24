@@ -51,7 +51,7 @@ const GovtPoliticalHome = () => {
         />
         <HCHelpOne
           title="MEDIA BUYING"
-          desc="Got an election coming up or a cause that needs pushing. Buy all your media through one convenient platform with April Ford."
+          desc="Got an election coming up or a cause that needs pushing. Buy all your media through one convenient platform with Onora."
           img={GovtPoliticalHelp5}
         />
       </HCHelpWrapper>

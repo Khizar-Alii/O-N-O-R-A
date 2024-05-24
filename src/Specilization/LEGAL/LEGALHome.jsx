@@ -57,11 +57,11 @@ const LEGALHome = () => {
       </HCHelpWrapper>
       <HCStats
         s1="53%"
-        t1="Lower Cost Per Conversion On Google After Engaging April Ford."
+        t1="Lower Cost Per Conversion On Google After Engaging Onora."
         s2="6X"
         t2="More Monthly Leads After Scaling Google Ad Account."
         s3="85%"
-        t3="Higher Click Through Rates On April Ford Copy Writing Updates To Google Search Text Ads."
+        t3="Higher Click Through Rates On Onora Copy Writing Updates To Google Search Text Ads."
         s4="50%"
         t4="Lower Cost Per Conversion On Google Than The Legal Industry Standard."
       />

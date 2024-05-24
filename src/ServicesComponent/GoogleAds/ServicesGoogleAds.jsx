@@ -25,7 +25,7 @@ const ServicesGoogleAds = () => {
       <HCHelpWrapper>
         <HCHelpOne
           title="GOOGLE SEARCH"
-          desc="Pay Per Click (PPC) advertising with Google Search is a must in every marketing strategy. It's one of the highest return tactics you can deploy. Our in-house team of digital advertising specialists are Certified Google Partners. They've spent years refining their craft, obsessing over campaign optimisation and chasing conversions. There's no set and forget at April Ford. It's hands on the wheel at all times."
+          desc="Pay Per Click (PPC) advertising with Google Search is a must in every marketing strategy. It's one of the highest return tactics you can deploy. Our in-house team of digital advertising specialists are Certified Google Partners. They've spent years refining their craft, obsessing over campaign optimisation and chasing conversions. There's no set and forget at Onora. It's hands on the wheel at all times."
           img={ServicesGoogleAds1}
         />
         <HCHelpTwo
