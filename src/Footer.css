@@ -85,8 +85,8 @@ footer {
 } */
 .midFooter > img {
   object-fit: cover;
-  width: 200px;
-  height: 100px;
+  width: 300px;
+  height: auto;
 }
 
 .midFooter > p {

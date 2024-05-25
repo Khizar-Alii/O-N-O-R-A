@@ -16,10 +16,10 @@
 .mainContainer__about_top h3 {
   position: absolute;
   bottom: 0;
-  font-size: 90px;
+  font-size: 80px;
   color: #fff;
-  margin-left: 60px;
-  line-height: 90px;
+  margin-left: 40px;
+  line-height: 70px;
 }
 .mainContainer__about_content__heading {
   margin-top: 50px 0;
@@ -52,10 +52,54 @@
   line-height: 30px;
 }
 
+
+@media screen and (max-width: 1100px) {
+  .mainContainer__about_content_top {
+    width: 80%;
+  }
+  .mainContainer__about_content_top_2 {
+    width: 80%;
+  }
+  .mainContainer__about_top h3 {
+    font-size: 60px;
+    line-height: 55px;
+    letter-spacing: 2px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .mainContainer__about_content_top {
+    width: 90%;
+  }
+  .mainContainer__about_content_top_2 {
+    width: 90%;
+  }
+  .mainContainer__about_top h3 {
+    font-size: 55px;
+    line-height: 55px;
+    letter-spacing: 2px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .mainContainer__about_content_top {
+    width: 100%;
+    font-size: 16px;
+  }
+  .mainContainer__about_content_top_2 {
+    width: 100%;
+    font-size: 16px;
+  }
+  .mainContainer__about_content__heading{
+    font-size: 30px;
+  }
+  .mainContainer__about_top h3 {
+    font-size: 50px;
+    line-height: 50px;
+  }
+}
+
 @media screen and (max-width: 630px) {
   .mainContainer__about_top h3 {
-    margin-top: 20px;
-    font-size: 60px;
+    font-size: 40px;
     line-height: 70px;
   }
 }

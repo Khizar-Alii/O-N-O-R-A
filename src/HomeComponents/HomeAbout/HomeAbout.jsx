@@ -16,28 +16,21 @@ const HomeAbout = () => {
           </h1>
           <div className={styles.mainContainer__about_content_top}>
             <p>
-              Onora is a digital performance agency with an innate
-              understanding of business. We manage a national portfolio of
-              clients with specialisations in;
-              <b>
-                medical and allied health, financial services, professional
-                services, ecommerce, education, government, SAAS and FMCG.
-              </b>
-              <br />
-              Our founders, April Forbes and Brendan Ford, spent two decades
-              building and exiting companies in consulting, property, and M&A
-              before launching AF in 2017. Having bootstrapped growth without
-              taking outside investment, Onora has in a few short years,
-              developed a national footprint with multiple offices and a
-              blue-chip client base. We're a business built on results, not
-              false promises.
-              <br />
-              Our team is the perfect balance of seasoned vets and youthful
-              enthusiasm, brought together by a joint
-              <b> unconditional focus on performance.</b> Our expertise lies in
-              lead generation and ecommerce. Our passion lives in business
-              growth.
+              Our team at Onora is here to help you succeed. We have a deep
+              understanding of business and a proven track record of delivering
+              results for CEOs, GMs, CMOs, and Marketing Managers across
+              Australia. With our digital marketing solutions, we will help you
+              generate more leads, improve your ROAS, and develop a winning
+              strategy. Our team in Egypt and Dubai is made up of passionate,
+              enthusiastic, and talented individuals who are dedicated to
+              providing the best service possible to our clients. We are
+              confident in our ability to solve your business challenges and
+              help you achieve your goals.
             </p>
+            <br />
+            <strong>
+            Omnia Barakat , CEO spent two decades building her marketing experience im the midde East and South East Asia before setting in Egypt and launching Onòra.
+            </strong>
           </div>
           <h1
             className={styles.mainContainer__about_content__heading}
@@ -56,8 +49,8 @@ const HomeAbout = () => {
               We take the time to get to know you and your business. We leverage
               AI to give your brand the competitive advantage you've been
               searching for. Powered by actual intelligence, data driven
-              decisions, creative thinking and commercial maturity, Onora
-              is like no agency you've met before.
+              decisions, creative thinking and commercial maturity, Onora is
+              like no agency you've met before.
               <br />
               <br />
               We believe that revenue growth and client acquisition shouldn't

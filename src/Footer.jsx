@@ -16,7 +16,7 @@ const Footer = () => {
 
       <div className="midFooter">
         {/* <h1>ONORA</h1> */}
-        <img src="./onoraLogo.jpg" alt="logo"  />
+        <img src="./onoraLogoFooter.jpg" alt="logo"  />
         <p>Where Quality Meets Innovation.</p>
         <p>© 2023 Khizar. All Rights Reserved.</p>
         <h4>Follow Us</h4>
