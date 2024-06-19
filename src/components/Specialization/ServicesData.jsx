@@ -49,7 +49,7 @@ const services = [
     title: "SOCIAL MEDIA CONTENT",
     description: "Effortlessly manage your social media presence.",
     id: 3,
-    redirect: "https://omniah-social-media-branding.vercel.app",
+    redirect: "https://social-media-branding.vercel.app/",
   },
   {
     // icon: <ConnectWithoutContactIcon />,
