@@ -18,9 +18,9 @@ const HomeAbout = () => {
             <p>
               Our team at Onora is here to help you succeed. We have a deep
               understanding of business and a proven track record of delivering
-              results for CEOs, GMs, CMOs, and Marketing Managers across
-              Australia. With our digital marketing solutions, we will help you
-              generate more leads, improve your ROAS, and develop a winning
+              results for CEOs, GMs, CMOs, and Marketing Managers across THE
+              MENA region. With our digital marketing solutions, we will help
+              you generate more leads, improve your ROAS, and develop a winning
               strategy. Our team in Egypt and Dubai is made up of passionate,
               enthusiastic, and talented individuals who are dedicated to
               providing the best service possible to our clients. We are
@@ -29,7 +29,9 @@ const HomeAbout = () => {
             </p>
             <br />
             <strong>
-            Omnia Barakat , CEO spent two decades building her marketing experience im the midde East and South East Asia before setting in Egypt and launching Onòra.
+              Omnia Barakat , CEO spent two decades building her marketing
+              experience in the midde East and South East Asia before setting in
+              Egypt and launching Onòra.
             </strong>
           </div>
           <h1
@@ -42,7 +44,7 @@ const HomeAbout = () => {
             <p>
               Digital advertising is not a race to the bottom. It's a fight for
               the top. You can't discount your way to profitability in business.
-              But with our growth strategies you'll be laughing all the way to
+              But with our growth strategies, you'll be laughing all the way to
               the bank.
               <br />
               <br />
@@ -54,10 +56,10 @@ const HomeAbout = () => {
               <br />
               <br />
               We believe that revenue growth and client acquisition shouldn't
-              come at the cost of margin. We follow an
-              <b> investment thesis </b> that is built around the responsible
-              management of a clients' budgets. Designed to achieve above market
-              returns using an unparalleled marketing strategy.
+              come at the cost of margin. We follow an investment thesis that is
+              built around the responsible management of a clients' budgets.
+              Designed to achieve above-market returns using an unparalleled
+              marketing strategy.
             </p>
           </div>
         </div>

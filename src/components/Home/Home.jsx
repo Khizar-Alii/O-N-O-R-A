@@ -38,7 +38,7 @@ const Home = () => {
       <RoundImageTwo
         title="THINK BIGGER "
         subtitle=" EXECUTE FASTER."
-        desc="Big ideas are only as good as your ability to execute them. It's why at Onora we invest in people that deliver, not just talk. It's why we're all in house, working together to deliver world class marketing."
+        desc="Big ideas are only as good as your ability to execute them. It's why at Onora we invest in people that deliver, not just talk. It's why we're boast an international diverse tightly dedicated teams working together to deliver world class marketing and Branding masterpieces."
       />
       <Specialization  data = {specializationData} title = "SPECIALISE, DON'T" subtitle="GENERALISE" backgroundColor='#fafafa'/>
       <Specialization  data = {services} title = "EVERYTHING YOU NEED," subtitle="NOTHING YOU DON'T." backgroundColor='#fafafa'/>

@@ -12,19 +12,15 @@ const HeroBottom = () => {
         <article>
           Need more leads. Want to grow but don't know how. Not getting the ROAS
           you once were or need a new strategy. Sound familiar? You're not
-          alone. We work with CEOs, GMs, CMOs and Marketing Managers all over
-          Australia solving these exact problems with digital marketing
+          alone. We work with CEOs, GMs, CMOs and Marketing Managers In the MENA Region solving these exact problems with digital marketing
           solutions. <br /> <br />
-          Onora is a digital performance agency with an innate
+          Onora is a BRANDING DESIGN AGENCY with an innate
           understanding of business. We manage a national portfolio of clients
           with specialisations in medical and allied health, financial services,
           professional services, lead generation, ecommerce, education,
           government, SAAS and FMCG.
           <br /> <br />
-          Based in Brisbane CBD with a sister office on the Sunshine Coast
-          Queensland, we're in Melbourne, Sydney and Canberra every other week
-          visiting clients. Our teams are all in-house and always available.
-          We're unconditionally focused on business growth.
+          Based in CAIRO , Egypt  with a sister office in Dubai ,Pakistan and India  Our teams are handpicked from the region best of the best . We're unconditionally focused on your business growth and branding impact.
         </article>
       </section>
     </div>

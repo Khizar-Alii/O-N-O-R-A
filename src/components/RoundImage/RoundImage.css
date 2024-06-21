@@ -31,7 +31,7 @@
 }
 .RoundImageLeft {
   width: 50%;
-  background-image: url("https://w0.peakpx.com/wallpaper/576/153/HD-wallpaper-autumn-travel-ultra-travel-maps-leaves-background-camera-closeup-film-compass-papermap.jpg");
+  background-image: url("/public/perfume1.webp");
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0 4px 6px rgba(1, 54, 191, 0.8);
@@ -42,7 +42,8 @@
 }
 .RoundImageTwoRight {
   width: 50%;
-  background-image: url("https://w0.peakpx.com/wallpaper/541/492/HD-wallpaper-compass-on-world-map-retro-travel-background-old-retro-card-vintage-world-map-magnifier-air-travel-concepts-travel-concepts-for-with-resolution-high-quality.jpg");
+  background-image: url("/public/perfume2.jpg");
+  background-size: cover;
   box-shadow: 0 4px 6px rgba(1, 54, 191, 0.8);
   border-top-left-radius: 300px;
   border-bottom-left-radius: 300px;
