@@ -12,7 +12,7 @@ const HomeServices = (props) => {
   };
   return (
     <div className={styles.HomeServices}>
-      <div className={styles.HomeServicesTop}>
+      {/* <div className={styles.HomeServicesTop}>
         <div className={styles.HomeServicesTop_content}>
           <h1>EXPERTISE YOU CAN TRUST.</h1>
           <br />
@@ -22,7 +22,7 @@ const HomeServices = (props) => {
             Browse
           </button>
         </div>
-      </div>
+      </div> */}
       <div className={styles.HomeServicesBottom} id="servicesSection">
         <Specialization  data={services} title={"SERVICES."}/>
       </div>

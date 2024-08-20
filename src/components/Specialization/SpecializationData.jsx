@@ -7,14 +7,14 @@
 // import SupportAgentIcon from "@mui/icons-material/SupportAgent";
 // import PrecisionManufacturingIcon from "@mui/icons-material/PrecisionManufacturing";
 const specializationData = [
-  {
-    // icon: <TravelExploreSharpIcon />,
-    title: "HEALTHCARE & ALLIED HEALTH",
-    description:
-      "Acquire more patients, recruit more talent, grow your billings.",
-    id: 1,
-    redirect: "/specialisation/healthcare-and-allied-health-marketing",
-  },
+  // {
+  //   // icon: <TravelExploreSharpIcon />,
+  //   title: "HEALTHCARE & ALLIED HEALTH",
+  //   description:
+  //     "Acquire more patients, recruit more talent, grow your billings.",
+  //   id: 1,
+  //   redirect: "/specialisation/healthcare-and-allied-health-marketing",
+  // },
   {
     // icon: <LanguageIcon />,
     title: "EDUCATION",
@@ -37,14 +37,14 @@ const specializationData = [
     id: 4,
     redirect: "/specialisation/consumer-brands-fmcg",
   },
-  {
-    // icon: <EmailSharpIcon />,
-    title: "RTO",
-    description:
-      "Attract more students with our lead generation and growth strategies.",
-    id: 5,
-    redirect: "/specialisation/rto",
-  },
+  // {
+  //   // icon: <EmailSharpIcon />,
+  //   title: "RTO",
+  //   description:
+  //     "Attract more students with our lead generation and growth strategies.",
+  //   id: 5,
+  //   redirect: "/specialisation/rto",
+  // },
   {
     // icon: <WebIcon />,
     title: "SAAS",
@@ -52,13 +52,13 @@ const specializationData = [
     id: 6,
     redirect: "/specialisation/saas",
   },
-  {
-    // icon: <LanguageIcon />,
-    title: "LEGAL",
-    description: "Generate more leads, win more cases, grow those billings.",
-    id: 7,
-    redirect: "/specialisation/legal",
-  },
+  // {
+  //   // icon: <LanguageIcon />,
+  //   title: "LEGAL",
+  //   description: "Generate more leads, win more cases, grow those billings.",
+  //   id: 7,
+  //   redirect: "/specialisation/legal",
+  // },
   {
     // icon: <PrecisionManufacturingIcon />,
     title: "PROPERTY",
@@ -67,27 +67,27 @@ const specializationData = [
     id: 8,
     redirect: "/specialisation/property",
   },
-  {
-    // icon: <SupportAgentIcon />,
-    title: "GOVERNMENT & POLITICAL",
-    description: "We believe in change for the better.",
-    id: 9,
-    redirect: "/specialisation/government-political",
-  },
-  {
-    // icon: <SupportAgentIcon />,
-    title: "DENTAL MARKETING",
-    description: "Fill your books, increase referrals and grow.",
-    id: 10,
-    redirect: "/specialisation/dental-marketing",
-  },
-  {
-    // icon: <SupportAgentIcon />,
-    title: "FINANCIAL SERVICES",
-    description: "Big bank, small bank, wealth management, we love money.",
-    id: 11,
-    redirect: "/specialisation/financial-services",
-  },
+  // {
+  //   // icon: <SupportAgentIcon />,
+  //   title: "GOVERNMENT & POLITICAL",
+  //   description: "We believe in change for the better.",
+  //   id: 9,
+  //   redirect: "/specialisation/government-political",
+  // },
+  // {
+  //   // icon: <SupportAgentIcon />,
+  //   title: "DENTAL MARKETING",
+  //   description: "Fill your books, increase referrals and grow.",
+  //   id: 10,
+  //   redirect: "/specialisation/dental-marketing",
+  // },
+  // {
+  //   // icon: <SupportAgentIcon />,
+  //   title: "FINANCIAL SERVICES",
+  //   description: "Big bank, small bank, wealth management, we love money.",
+  //   id: 11,
+  //   redirect: "/specialisation/financial-services",
+  // },
 ];
 
 export default specializationData;

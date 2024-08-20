@@ -5,8 +5,8 @@ import RoundImage from "../RoundImage/RoundImage";
 import RoundImageTwo from "../RoundImage/RoundImageTwo";
 import Specialization from "../Specialization/Specialization";
 import specializationData from "../Specialization/SpecializationData";
-import services from "../Specialization/ServicesData";
-import ResultCar from "../ResultCar/ResultCar";
+// import services from "../Specialization/ServicesData";
+// import ResultCar from "../ResultCar/ResultCar";
 
 const Home = () => {
   return (
@@ -40,9 +40,13 @@ const Home = () => {
         subtitle=" EXECUTE FASTER."
         desc="Big ideas are only as good as your ability to execute them. It's why at Onora we invest in people that deliver, not just talk. It's why we're boast an international diverse tightly dedicated teams working together to deliver world class marketing and Branding masterpieces."
       />
-      <Specialization  data = {specializationData} title = "SPECIALISE, DON'T" subtitle="GENERALISE" backgroundColor='#fafafa'/>
-      <Specialization  data = {services} title = "EVERYTHING YOU NEED," subtitle="NOTHING YOU DON'T." backgroundColor='#fafafa'/>
-      <ResultCar />
+      <Specialization  data = {specializationData} title = "We ARE," subtitle="SPECIALISE IN" backgroundColor='#fafafa'/>
+
+      {/* remove the service form home */}
+      {/* <Specialization  data = {services} title = "EVERYTHING YOU NEED," subtitle="NOTHING YOU DON'T." backgroundColor='#fafafa'/> */}
+
+      {/* removes the cars from home */}
+      {/* <ResultCar /> */}
     </div>
   );
 };

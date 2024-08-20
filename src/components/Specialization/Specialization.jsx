@@ -9,7 +9,7 @@ const Specialization = ({ data, title, subtitle, backgroundColor }) => {
         backgroundColor: {},
       }}
     >
-      <h1>
+      <h1 className="titleMain">
         {title} <br />
         <span>{subtitle}</span>
       </h1>

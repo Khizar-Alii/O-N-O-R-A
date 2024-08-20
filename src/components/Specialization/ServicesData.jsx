@@ -7,27 +7,27 @@
 // import SupportAgentIcon from "@mui/icons-material/SupportAgent";
 // import PrecisionManufacturingIcon from "@mui/icons-material/PrecisionManufacturing";
 const services = [
-  {
-    // icon: <TravelExploreSharpIcon />,
-    title: "Lead Generation",
-    description: "Attract, nurture and close more deals",
-    id: 10,
-    redirect: "/services/leadGeneration",
-  },
-  {
-    // icon: <TravelExploreSharpIcon />,
-    title: "B2B Marketing",
-    description: "Build brand equity sell more products or services and grow.",
-    id: 11,
-    redirect: "/services/B2B-Marketing",
-  },
-  {
-    // icon: <TravelExploreSharpIcon />,
-    title: "High Growth",
-    description: "Acheive rapid expansion and hyper-growth",
-    id: 12,
-    redirect: "/services/Hight-Growth",
-  },
+  // {
+  //   // icon: <TravelExploreSharpIcon />,
+  //   title: "Lead Generation",
+  //   description: "Attract, nurture and close more deals",
+  //   id: 10,
+  //   redirect: "/services/leadGeneration",
+  // },
+  // {
+  //   // icon: <TravelExploreSharpIcon />,
+  //   title: "B2B Marketing",
+  //   description: "Build brand equity sell more products or services and grow.",
+  //   id: 11,
+  //   redirect: "/services/B2B-Marketing",
+  // },
+  // {
+  //   // icon: <TravelExploreSharpIcon />,
+  //   title: "High Growth",
+  //   description: "Acheive rapid expansion and hyper-growth",
+  //   id: 12,
+  //   redirect: "/services/Hight-Growth",
+  // },
   {
     // icon: <TravelExploreSharpIcon />,
     title: "GOOGLE ADS",
@@ -36,14 +36,14 @@ const services = [
     id: 1,
     redirect: "/services/google-ads",
   },
-  {
-    // icon: <LanguageIcon />,
-    title: "META ADVERTISING",
-    description:
-      "It's about long-term compound growth through multiple markets. That's our ethos.",
-    id: 2,
-    redirect: "/services/meta-advertising",
-  },
+  // {
+  //   // icon: <LanguageIcon />,
+  //   title: "META ADVERTISING",
+  //   description:
+  //     "It's about long-term compound growth through multiple markets. That's our ethos.",
+  //   id: 2,
+  //   redirect: "/services/meta-advertising",
+  // },
   {
     // icon: <SmartphoneIcon />,
     title: "SOCIAL MEDIA CONTENT",
@@ -51,14 +51,14 @@ const services = [
     id: 3,
     redirect: "https://social-media-branding.vercel.app/",
   },
-  {
-    // icon: <ConnectWithoutContactIcon />,
-    title: "PROGRAMMATIC ADVERTISING",
-    description:
-      "Unlock premium ad placement opportunities that standard platforms can't guarantee.",
-    id: 4,
-    redirect: "/services/programatic-advertising",
-  },
+  // {
+  //   // icon: <ConnectWithoutContactIcon />,
+  //   title: "PROGRAMMATIC ADVERTISING",
+  //   description:
+  //     "Unlock premium ad placement opportunities that standard platforms can't guarantee.",
+  //   id: 4,
+  //   redirect: "/services/programatic-advertising",
+  // },
   {
     // icon: <EmailSharpIcon />,
     title: "EMAIL AND SMS MARKETING",
@@ -81,14 +81,14 @@ const services = [
     id: 7,
     redirect: "/services/search-engine-optimization",
   },
-  {
-    // icon: <PrecisionManufacturingIcon />,
-    title: "CONVERSION RATE OPTIMISATION",
-    description:
-      "Maximise the effectiveness of your website or landing page with CRO.",
-    id: 8,
-    redirect: "/services/conversion-rate-optimisation",
-  },
+  // {
+  //   // icon: <PrecisionManufacturingIcon />,
+  //   title: "CONVERSION RATE OPTIMISATION",
+  //   description:
+  //     "Maximise the effectiveness of your website or landing page with CRO.",
+  //   id: 8,
+  //   redirect: "/services/conversion-rate-optimisation",
+  // },
   {
     // icon: <SupportAgentIcon />,
     title: "CONSULTANCY",
